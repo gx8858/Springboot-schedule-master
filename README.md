@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # springboot-schedule
 springboot定时任务demo
 ## 使用SpringBoot创建定时任务非常简单，
@@ -10,7 +8,3 @@ springboot定时任务demo
 ### 详细内容，参见此处1
 https://blog.csdn.net/u013987258/article/details/106671908
 
-=======
-# Springboot-schedule-master
-spring boot 定时任务
->>>>>>> branch 'master' of https://github.com/gx8858/Springboot-schedule-master.git
